@@ -5,7 +5,7 @@ Có 1 thửa ruộng m x n, 1 người nông dân cuốc x hố kích thước k
 
 4
 
-3
+3 khong conflick
 
 
 
